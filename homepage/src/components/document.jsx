@@ -48,7 +48,7 @@ export default function Documents() {
           <ul>
             <li>← Left Arrow or A – Move left</li>
             <li>→ Right Arrow or D – Move right</li>
-            <li>Space or ↑ Up Arrow – Jump (coming soon!)</li>
+            <li>Space – Jump</li>
           </ul>
           <p style={{ marginTop: '1rem', fontWeight: 'bold', color: '#ff0044' }}>
             Don't get caught by the raccoon!
